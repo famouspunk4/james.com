@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<head>
+<style>
+h1 {
+  text-align:center;
+}
+p  {
+  text-align:center;
+}
+</style>
+</head>
+<body>
 
+<h1>James.com</h1>
+
+<a href=index.html>Home</a>
+<a href=about.html>About</a>
+<a href=contact.html>Contact</a>
+
+</body>
+</html>
